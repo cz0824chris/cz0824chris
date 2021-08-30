@@ -1,4 +1,4 @@
-- 👋 Hi, My name is CHIU,YU-CHENG.You can call me Chris.Currently a third year student in National Ilan University.
+- 👋 Hi, My name is CHIU,YU-CHENG.You can call me Chris.Currently a senior student at Department of Mechanical and Electromechanical Engineering, National ILan University, Taiwan.
 - 👀 I’m  very interested in machine learning and programming.
 - 🌱 I’m currently learning machine learning. And my research is using machine learning to reduce the thermal error of the main shaft of the CNC.
 
