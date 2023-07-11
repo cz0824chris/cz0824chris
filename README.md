@@ -1,6 +1,8 @@
-- 👋 Hi, My name is CHIU,YU-CHENG.You can call me Chris.Currently a senior student at Department of Mechanical and Electromechanical Engineering, National ILan University, Taiwan.
+- 👋 Hi, My name is CHIU,YU-CHENG.You can call me Chris.Currently a grad student at Institute of Applied Mechanics, National Taiwan University, Taiwan.
 - 👀 I’m  very interested in machine learning and programming.
-- 🌱 I’m currently learning machine learning. And my research is using machine learning to reduce the thermal error of the main shaft of the CNC.
+- 🌱 I’m currently learning machine learning and Energy Harvesting. And my research is using Piezoelectric-Array-Based MISO Diagnostic System for CNN-Condition Monitoring of Bearing/Gearbox Instruments.
+.
+- 
 
 
 <!---
